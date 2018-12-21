@@ -126,7 +126,8 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0x929d31737dd35202ca0a481453aa705cb30868210b4969e0e81e45802eab4769"));
 
         // Note that of those with the service bits flag, most only support a subset of possible options
-
+        vSeeds.emplace_back("68.172.48.242");
+        
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,54);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
         base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,119);
@@ -145,6 +146,7 @@ public:
         checkpointData = {
             {
                 {  0, uint256S("0x57ab324f6b8e5e789efe9684fed257fd2762d1d052b66b1bd64906d7c5f97cdb")},
+                {  524, uint256S("0x772d6d969da3c76e3eb9a0a86b38974b606ab52c7718dc3f1220ba60d793d6f6 ")},
             }
         };
 
