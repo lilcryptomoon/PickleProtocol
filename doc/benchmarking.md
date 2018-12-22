@@ -1,14 +1,14 @@
 Benchmarking
 ============
 
-Litecoin Core has an internal benchmarking framework, with benchmarks
+PickleProtocol Core has an internal benchmarking framework, with benchmarks
 for cryptographic algorithms such as SHA1, SHA256, SHA512 and RIPEMD160. As well as the rolling bloom filter.
 
 Running
 ---------------------
-After compiling Litecoin-core, the benchmarks can be run with:
+After compiling PickleProtocol-core, the benchmarks can be run with:
 
-    src/bench/bench_Litecoin
+    src/bench/bench_PickleProtocol
 
 The output will look similar to:
 ```
@@ -43,7 +43,7 @@ Help
 ---------------------
 `-?` will print a list of options and exit:
 
-    src/bench/bench_Litecoin -?
+    src/bench/bench_PickleProtocol -?
 
 Notes
 ---------------------
