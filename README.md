@@ -1,8 +1,6 @@
 PickleProtocol Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/pickleprotocol-project/pickleprotocol.svg?branch=master)](https://travis-ci.org/pickleprotocol-project/pickleprotocol)
-
 https://pickleprotocol.org
 
 What is PickleProtocol?
