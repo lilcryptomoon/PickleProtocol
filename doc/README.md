@@ -35,14 +35,7 @@ https://discord.gg/VFVvAT
 
 Building
 ---------------------
-The following are developer notes on how to build PickleProtocol on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
-
-- [Dependencies](dependencies.md)
-- [OS X Build Notes](build-osx.md)
-- [Unix Build Notes](build-unix.md)
-- [Windows Build Notes](build-windows.md)
-- [OpenBSD Build Notes](build-openbsd.md)
-- [Gitian Building Guide](gitian-building.md)
+Instructions on how to build are located in docs.
 
 Development
 ---------------------
