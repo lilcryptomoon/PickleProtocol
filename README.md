@@ -24,7 +24,7 @@ Pickle Protocol looks to create a network of nodes across colleges/ students all
 
 # Future Development
 
-# TheJara mining function "opt in based" portion where burned PCK is sent into (the PCK foundation) which is annually awarded to 4 students to assist in collegiate debt/ parents of a student/student entrepreneurs.
+# TheJar mining function "opt in based" portion where burned PCK is sent into (the PCK foundation) which is annually awarded to 4 students to assist in collegiate debt/ parents of a student/student entrepreneurs.
 
 Major difference are that the  coins are locked the wallet to unlock this feature. Maturity level etc.
 
