@@ -45,6 +45,7 @@ Development
 ### Resources
 Dicord
 https://discord.gg/VFVvAT
+
 BitcoinTalk.org
 
 
