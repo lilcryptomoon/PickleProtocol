@@ -1,9 +1,15 @@
 PickleProtocol 
 =============
-Specifications Name: Pickle Protocol (PCK)
+Specifications
+
+Name: Pickle Protocol (PCK)
+
 Algorithm (POW): Scrypt
+
 Block Reward: 50 PCK
+
 Total Supply:48,000,000
+
 Ports: 9326| 9327
 
 
