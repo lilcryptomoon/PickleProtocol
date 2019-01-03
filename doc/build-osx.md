@@ -49,8 +49,8 @@ Build PickleProtocol Core
 
 1. Clone the pickleprotocol source code and cd into `pickleprotocol`
 
-        git clone https://github.com/pickleprotocol-project/pickleprotocol
-        cd pickleprotocol
+ git clone https://github.com/lilcryptomoon/PickleProtocol.git
+ cd PickleProtocol/
 
 2.  Build pickleprotocol-core:
 
