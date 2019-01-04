@@ -103,10 +103,10 @@ public:
         consensus.vDeployments[Consensus::DEPLOYMENT_SEGWIT].nTimeout = 1576195200; // December 13, 2019
 
         // The best chain should have at least this much work.
-        consensus.nMinimumChainWork = uint256S("0x0");
+        consensus.nMinimumChainWork = uint256S("0x00000000000000000000000000000000000000000000000000048d65183b6e48"); 
 
         // By default assume that the signatures in ancestors of this block are valid.
-        consensus.defaultAssumeValid = uint256S("0x0"); //1441280
+        consensus.defaultAssumeValid = uint256S("0x43977a43088cb14863f5797e0ea46321526248c7297ad0ec3a9c4aa34e18facc");  
 
         /**
          * The message start string is designed to be unlikely to occur in normal data.
@@ -130,6 +130,27 @@ public:
 	vSeeds.emplace_back("161.43.201.255");
 	vSeeds.emplace_back("31.220.61.164");
 	vSeeds.emplace_back("104.156.239.75");
+	vSeeds.emplace_back("171.250.211.99");
+	vSeeds.emplace_back("45.76.43.94");
+	vSeeds.emplace_back("203.205.29.208");
+	vSeeds.emplace_back("80.187.109.171");
+	vSeeds.emplace_back("73.134.21.212");
+	vSeeds.emplace_back("49.197.21.77");
+	vSeeds.emplace_back("203.205.30.171");
+	vSeeds.emplace_back("116.26.228.46");
+	vSeeds.emplace_back("49.197.170.51");
+	vSeeds.emplace_back("140.82.8.200");
+	vSeeds.emplace_back("111.20.225.135");
+	vSeeds.emplace_back("99.248.177.182");
+	vSeeds.emplace_back("46.138.183.128");
+	vSeeds.emplace_back("45.76.43.94");
+	vSeeds.emplace_back("175.36.173.144");
+	vSeeds.emplace_back("113.161.84.53");
+	vSeeds.emplace_back("31.18.228.7");
+	vSeeds.emplace_back("161.43.201.255");
+
+	
+	
 
 	    
 
